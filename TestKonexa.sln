@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKonexa.API", "TestKonexa.API\TestKonexa.API.csproj", "{5822F841-68F4-4283-80C2-E24E2FCB7CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestKonexa.UnitTest", "TestKonexa.UnitTest\TestKonexa.UnitTest.csproj", "{EADA5FD5-326D-4A1D-BFF5-B71D025C526F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5822F841-68F4-4283-80C2-E24E2FCB7CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5822F841-68F4-4283-80C2-E24E2FCB7CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5822F841-68F4-4283-80C2-E24E2FCB7CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5822F841-68F4-4283-80C2-E24E2FCB7CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADA5FD5-326D-4A1D-BFF5-B71D025C526F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADA5FD5-326D-4A1D-BFF5-B71D025C526F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADA5FD5-326D-4A1D-BFF5-B71D025C526F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADA5FD5-326D-4A1D-BFF5-B71D025C526F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
